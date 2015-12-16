@@ -1,0 +1,1 @@
+This repository is a studying [Spin](http://spinroot.com/spin/whatispin.html) for model checking. The original of programs are from [モデル検査 初級編―基礎から実践まで4日で学べる (CVS教程)](http://www.amazon.co.jp/dp/4764955059/ref=pd_lpo_sbs_dp_ss_1?pf_rd_p=187205609&pf_rd_s=lpo-top-stripe&pf_rd_t=201&pf_rd_i=4860431197&pf_rd_m=AN1VRQENFRJN5&pf_rd_r=1B1TA0WCFS3JEY2N762A).
