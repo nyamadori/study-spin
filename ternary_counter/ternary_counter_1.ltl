@@ -1,0 +1,13 @@
+#define A (digit0==1)
+#define B (digit1==1)
+#define C (digit2==1)
+
+never  {    /* <>(A&B&C) */
+T0_init:
+	do
+	:: atomic { ((A&B&C)) -> assert(!((A&B&C))) }
+	:: (1) -> goto T0_init
+	od;
+accept_all:
+	skip
+}
